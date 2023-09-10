@@ -7,10 +7,10 @@
 This is a classifier that merges Neural Networks with Bernoulli Naive Bayes. It employs a fully connected, 3-layer neural network implemented in NumPy for predicting priors which are then input into Bernoulli Naive Bayes for the final prediction 🌐 It is designed to play PacMan autonomously by contributing the probability of the next best move based on the current enviroment state (food, pellets, ghost locations)
 
 # Features
-🤖Hybrid Model: Combines neural networks and Naive Bayes for intelligent probabilies.
-🔢NumPy Based: Efficient matrix operations and computations.
-⚙️Customisable: Easily adjust layers, learning rate, and iterations.
-📊One-hot Encoding Utility: Convert integer lists to one-hot encoded numpy arrays.
+- 🤖Hybrid Model: Combines neural networks and Naive Bayes for intelligent probabilies.
+- 🔢NumPy Based: Efficient matrix operations and computations.
+- ⚙️Customisable: Easily adjust layers, learning rate, and iterations.
+- 📊One-hot Encoding Utility: Convert integer lists to one-hot encoded numpy arrays.
 
 ## How To Use
 ### Import the Classifier.
