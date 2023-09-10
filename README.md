@@ -1,7 +1,7 @@
 # Bayesian_Net: Neural Naive Bayes Classifier
 
 This project implements a  classifier that merges Neural Networks with Bernoulli Naive Bayes. It employs a 3-layer neural network implemented in NumPy for predicting priors which are then input into Bernoulli Naive Bayes for final prediction.
-![Bayesian_net](https://github.com/jacobmcasey/ml_coursework/assets/71528526/ef4684cf-ebd2-4981-8ad2-d7c621445a61)
+<img src="https://github.com/jacobmcasey/ml_coursework/assets/71528526/ef4684cf-ebd2-4981-8ad2-d7c621445a61" alt="Bayesian_net" width="200"/>
 
 #Features
 Hybrid Model: Combines neural networks and Naive Bayes.
