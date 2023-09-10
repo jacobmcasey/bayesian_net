@@ -1,7 +1,7 @@
 # Bayesian_Net: Neural Naive Bayes Classifier
 
 <p align="center">
-  <img src="https://github.com/jacobmcasey/bayesian_net/assets/71528526/9594ae14-770b-4004-981e-f29b4a0a1d3d" alt="Bayesian_net" width="200"/>
+  <img src="https://github.com/jacobmcasey/bayesian_net/assets/71528526/1cd0e67f-2af9-454e-b717-ee6f0c13861b" alt="Bayesian_net" width="200"/>
 </p>
 Bayesian_Net employs a fully connected, 3-layer neural network implemented in NumPy for predicting priors which are input into Bernoulli Naive Bayes 🌐
 
